@@ -1,6 +1,6 @@
 {
   "safeVer": true,
-  "clientVer": "1.4.2",
+  "clientVer": "1.4.3",
   "contentScripts": {
     "index": "e5d6f77d",
     "vendor": "058b56a2"
